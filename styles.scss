@@ -1,0 +1,9 @@
+@import './node_modules/tailwindcss/base.css';
+@import './node_modules/tailwindcss/components.css';
+@import './node_modules/tailwindcss/utilities.css';
+
+$color: #0f0f0f;
+
+body {
+    background-color: $color;
+}
